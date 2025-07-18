@@ -1,8 +1,4 @@
 # ImRadegast_Cybersecurity_Portfolio
-Modul 1-8 are inspired by Google. Please visit this [link](https://github.com) for further information. More are to come, stay tuned!
 <blockquote>
-<p>Markdown utilise les caractères à la manière des emails pour afficher des citations en bloc.</p>
-<p>Chaque paragraphe doit être précédé par ce caractère.</p>
-
-  azeazeazeaze
+Les moduleq 1 à 8 sont inspiré par Google. Veuillez visiter ce [site](https://www.coursera.org/professional-certificates/google-cybersecurity) pour plus d'information.
 </blockquote>
