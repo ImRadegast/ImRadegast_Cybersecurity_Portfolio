@@ -10,6 +10,6 @@
 - Master Chef de Projet en Informatique </li>
 - Licence Développeur FullStack </li>
 
-#Portfolio
+# Portfolio
 
 >Veuillez visiter ce <a href="https://www.coursera.org/professional-certificates/google-cybersecurity">site</a> pour plus d'information.
