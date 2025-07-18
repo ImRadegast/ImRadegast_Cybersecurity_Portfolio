@@ -5,6 +5,7 @@ Veuillez visiter ce <a href="https://www.coursera.org/professional-certificates/
 👉 Retrouvez toutes mes notes de cybersécurité sur <a href="https://scientific-deal-c02.notion.site/Cybersecurit-1e8cd090b1e8807ea325c9e844c159ec?pvs=143">mon espace Notion</a>.
 </blockquote>
 
-# Ex
+# Diplôme <em>Diplôme </em>
+<li> [En cours] Certification Google Cybersecurité Professionnel </li>
 <li> Master Chef de Projet en Informatique </li>
-<li> Liscence Développeur FullStack </li>
+<li> Licence Développeur FullStack </li>
