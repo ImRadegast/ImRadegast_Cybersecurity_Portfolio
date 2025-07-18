@@ -10,7 +10,7 @@
 - Master Chef de Projet en Informatique </li>
 - Licence Développeur FullStack </li>
 
-# Portfolio
+## Portfolio
 
 >Veuillez visiter ce <a href="https://www.coursera.org/professional-certificates/google-cybersecurity">site</a> pour plus d'information.
 
@@ -45,3 +45,15 @@ De plus, cette formation m’a préparé à occuper l’un des postes de niveau 
 | **6 - Tcpdump & Wireshark** | `Analyseur de paquets` |
 | **7 - IDS & SIEM** | `Système de détection d'intrusion (IDS) : Suricata`, `Gestion des événements et informations de sécurité (SIEM) : Chronicle, Splunk` |
 | **8 - Automatisation avec Python** | `Programmation informatique`, `Programmation Python`, `Codage`, `Guide de style PEP 8` |
+
+## Outils
+
+Plusieurs outils que j'ai utilisé
+ - Espace de travail Google (Drive, Docs, Excel, Slide)
+ - Linux
+ - SQL
+ - Python
+ - C#
+
+
+
