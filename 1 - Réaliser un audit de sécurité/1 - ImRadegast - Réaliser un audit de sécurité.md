@@ -92,7 +92,7 @@ En cybersécurité, les **types de contrôles** peuvent être classés en trois 
 
 
 ## Liste de vérification de l’évaluation des contrôles
-> Botium Toys applique-t-il ce contrôle ?
+> Botium Toys applique-t-elle ces contrôle ?
 
 | Contrôle                                          | Oui / Non | Commentaire                                                                                                     |
 |---------------------------------------------------|-----------|-----------------------------------------------------------------------------------------------------------------|
@@ -111,7 +111,7 @@ En cybersécurité, les **types de contrôles** peuvent être classés en trois 
 
 ## Liste de vérification de conformité
 
->Botium Toys respecte il ces bonnes pratiques de conformité ?
+>Botium Toys respecte elle les bonnes pratiques de conformité ?
 
 
 - Norme PCI DSS (Payment Card Industry Data Security Standard)
