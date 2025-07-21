@@ -31,20 +31,22 @@ L’objectif est d’examiner les actifs de Botium Toys ainsi que les **contrôl
 - **Améliorer la posture de sécurité** globale de Botium Toys.
 
 ## ✅ Liste de vérification de l’évaluation des contrôles
+> Botium Toys applique-t-il actuellement ce contrôle ?
+| Oui / Non | Contrôle | Commentaire                                                                |
+|-----------|-----------|---------------------------------------------------------------|
+|Non   | Moindre privilège |Les employés ont accès aux données des clients. Cela doit être modifié pour réduire le risque de violation de données. |
+|Non   | Plans de reprise après sinistre |Il n’existe actuellement aucun plan de gestion de catastrophe. Sa mise en place est nécessaire pour assurer la continuité des activités.|
+|Oui| Politiques de mot de passe |Bien qu'une politique de mot de passe existe, ses exigences sont minimales et ne respectent pas les normes actuelles de complexité. Cela met en danger la gestion des identités.|
+|Non   | Séparation des tâches |                                                   |
+|Oui   | Pare-feu |Le service informatique dispose d’un pare-feu qui bloque le trafic selon un ensemble de règles de sécurité bien définies.|
+|Non   | Détection d’intrusion (IDS) |Déployer un IDS pour détecter les menaces et intrusions en temps réel.|
+|Non   | Sauvegardes |Comme pour le plan de reprise, ils ne sont pas préparés en cas de violation. Un plan de sauvegarde (incrémentielle, complète ou partielle) doit être mis en œuvre.|
+|Oui   | Antivirus |Le logiciel antivirus est actif et régulièrement surveillé par l’équipe informatique.|
+|Non   | Chiffrement |Mettre en œuvre le chiffrement  permettrait de protéger la confidentialité des données.  |
+|Oui   | Serrures (bureaux, magasins, entrepôts) | Bien que l’équipe IT ne gère pas les locaux, l’organisation possède des serrures suffisantes. |
+|Oui   | Vidéosurveillance en circuit fermé (CCTV) |Le système de vidéosurveillance est opérationnel|
+|Oui   | Détection/prévention incendie  |L’organisation possède ces dispositifs, mais l’équipe doit les entretenir et établir un plan d’utilisation.|
 
-| Oui / Non | Contrôle                                                                 |
-|-----------|--------------------------------------------------------------------------|
-|   | Moindre privilège                                                        |
-|   | Plans de reprise après sinistre                                          |
-|   | Politiques de mot de passe                                               |
-|   | Séparation des tâches                                                    |
-|   | Pare-feu                                                                 |
-|   | Système de détection d’intrusion (IDS)                                   |
-|   | Sauvegardes                                                              |
-|   | Logiciel antivirus                                                       |
-|   | Surveillance, maintenance et intervention manuelles pour les anciens systèmes |
-|   | Chiffrement                                                              |
-|   | Système de gestion des mots de passe                                     |
-|   | Serrures (bureaux, magasins, entrepôts)                                  |
-|   | Vidéosurveillance en circuit fermé (CCTV)                                |
-|   | Détection/prévention incendie (alarme incendie, système de gicleurs, etc.) |
+
+
+
