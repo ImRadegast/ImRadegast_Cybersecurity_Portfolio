@@ -92,7 +92,7 @@ En cybersécurité, les **types de contrôles** peuvent être classés en trois 
 
 
 ## Liste de vérification de l’évaluation des contrôles
-> Botium Toys applique-t-il actuellement ce contrôle ?
+> Botium Toys applique-t-il ce contrôle ?
 
 | Contrôle                                          | Oui / Non | Commentaire                                                                                                     |
 |---------------------------------------------------|-----------|-----------------------------------------------------------------------------------------------------------------|
@@ -109,7 +109,52 @@ En cybersécurité, les **types de contrôles** peuvent être classés en trois 
 | Vidéosurveillance en circuit fermé (CCTV)         | Oui       | Le système de vidéosurveillance est opérationnel.                                                              |
 | Détection/prévention incendie                     | Oui       | L’organisation possède ces dispositifs, mais l’équipe doit les entretenir et établir un plan d’utilisation.|
 
+## Liste de vérification de conformité
 
+>Botium Toys respecte il ces bonnes pratiques de conformité ?
+
+
+#### Norme PCI DSS (Payment Card Industry Data Security Standard)
+
+| Oui / Non / ? | Bonne pratique                                           | Explication                                                                                       |
+|---------------|----------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+| Non           | Seuls les utilisateurs autorisés peuvent accéder aux cartes bancaires des clients. | Actuellement, tous les employés ont accès à ces données, ce qui constitue une mauvaise pratique.  |
+| No            | Les données de carte bancaire sont stockées dans un environnement sécurisé.        | Les données ne sont pas chiffrées, ce qui viole la loi et les réglementations.                   |
+| No            | Le chiffrement est sécurisé.                            | Le chiffrement n’a pas encore été mis en place.                                                   |
+
+
+
+#### RGPD (Règlement Général sur la Protection des Données)
+
+| Oui / Non / ? | Bonne pratique                                           | Explication                                                                                       |
+|---------------|----------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+| Non           | Les clients européens sont protégés.                     | L'organisation ne suit pas les pratiques RGPD, ce qui l'expose à des amendes de l'UE.            |
+| Oui           | Les politiques de confidentialité sont correctement appliquées. | Selon le scénario, elles ont été mises en œuvre par l’équipe IT et d’autres membres du personnel. |
+
+
+
+#### Contrôles des systèmes et organisations (SOC)
+
+| Oui / Non / ? | Bonne pratique                                           | Explication                                                                                       |
+|---------------|----------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+| Non           | Des politiques d’accès utilisateur sont établies.        | Les employés ont accès à des données internes, donc aucune politique d’accès n’a été appliquée.  |
+| Oui           | L’intégrité des données est cohérente, complète et exacte. | L'intégrité des données est assurée.                                                              |
+| Non           | Les données sont accessibles uniquement aux utilisateurs autorisés. | Actuellement, tous les employés peuvent accéder à toutes les données.                            |
+
+
+#### Recommandations (optionnelles)
+
+Après avoir analysé la posture de sécurité de Botium Toys, les analystes ont conclu qu’elle est **loin des attentes**. Elle présente un **manque de protection de la confidentialité des informations sensibles**.
+
+Voici les éléments à corriger en priorité :
+
+1. Mise en œuvre du principe du moindre privilège  
+2. Plan de reprise après sinistre  
+3. Renforcement de la politique de mot de passe  
+4. Mise en place du chiffrement  
+5. Système de gestion des mots de passe  
+
+Pour combler ces lacunes de conformité, Botium doit **mettre en œuvre et formaliser des politiques** pour adresser les points ci-dessus. Il est également nécessaire de **mettre à jour l'inventaire des actifs** afin d'identifier les contrôles supplémentaires à appliquer et ainsi améliorer la posture de sécurité globale.
 
 
 
