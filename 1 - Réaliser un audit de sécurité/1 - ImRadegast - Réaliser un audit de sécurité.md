@@ -9,3 +9,27 @@ La responsable souhaite également s’assurer que l’entreprise respecte les r
 
 Elle entame donc la démarche en adoptant le Cadre de cybersécurité du NIST (NIST CSF). Elle définit le périmètre et les objectifs de l’audit, dresse la liste des actifs gérés par le département informatique et réalise une évaluation des risques. L’objectif de cet audit est de fournir une vue d’ensemble des risques encourus ou des sanctions potentielles que l’entreprise pourrait subir du fait de son niveau actuel de sécurité.
 
+# Scénario
+>Botium Toys : Portée, Objectifs et  Evaluation des risks
+
+## Portée de l’audit
+
+La portée de cet audit est définie comme l’ensemble du **programme de sécurité** de **Botium Toys**.  
+Cela inclut :
+
+- Les **actifs** de l’entreprise (équipements et dispositifs des employés),
+- Le **réseau interne**,
+- Les **systèmes informatiques**.
+
+L’objectif est d’examiner les actifs de Botium Toys ainsi que les **contrôles** et **pratiques de conformité** actuellement en place.
+
+---
+
+## Objectifs de l’audit
+
+- Évaluer les **actifs existants**,
+- Compléter la **checklist des contrôles et de la conformité**,
+- Identifier les **contrôles** et **bonnes pratiques de sécurité** à mettre en œuvre,
+- **Améliorer la posture de sécurité** globale de Botium Toys.
+
+---
