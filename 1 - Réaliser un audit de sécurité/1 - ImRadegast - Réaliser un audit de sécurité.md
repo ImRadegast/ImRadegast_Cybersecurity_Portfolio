@@ -114,7 +114,7 @@ En cybersécurité, les **types de contrôles** peuvent être classés en trois 
 >Botium Toys respecte il ces bonnes pratiques de conformité ?
 
 
-#### Norme PCI DSS (Payment Card Industry Data Security Standard)
+- Norme PCI DSS (Payment Card Industry Data Security Standard)
 
 | Oui / Non / ? | Bonne pratique                                           | Explication                                                                                       |
 |---------------|----------------------------------------------------------|---------------------------------------------------------------------------------------------------|
@@ -124,7 +124,7 @@ En cybersécurité, les **types de contrôles** peuvent être classés en trois 
 
 
 
-#### RGPD (Règlement Général sur la Protection des Données)
+- RGPD (Règlement Général sur la Protection des Données)
 
 | Oui / Non / ? | Bonne pratique                                           | Explication                                                                                       |
 |---------------|----------------------------------------------------------|---------------------------------------------------------------------------------------------------|
@@ -133,7 +133,7 @@ En cybersécurité, les **types de contrôles** peuvent être classés en trois 
 
 
 
-#### Contrôles des systèmes et organisations (SOC)
+- Contrôles des systèmes et organisations (SOC)
 
 | Oui / Non / ? | Bonne pratique                                           | Explication                                                                                       |
 |---------------|----------------------------------------------------------|---------------------------------------------------------------------------------------------------|
@@ -142,7 +142,7 @@ En cybersécurité, les **types de contrôles** peuvent être classés en trois 
 | Non           | Les données sont accessibles uniquement aux utilisateurs autorisés. | Actuellement, tous les employés peuvent accéder à toutes les données.                            |
 
 
-#### Recommandations (optionnelles)
+## Recommandations
 
 Après avoir analysé la posture de sécurité de Botium Toys, les analystes ont conclu qu’elle est **loin des attentes**. Elle présente un **manque de protection de la confidentialité des informations sensibles**.
 
