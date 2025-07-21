@@ -23,8 +23,6 @@ Cela inclut :
 
 L’objectif est d’examiner les actifs de Botium Toys ainsi que les **contrôles** et **pratiques de conformité** actuellement en place.
 
----
-
 ## Objectifs de l’audit
 
 - Évaluer les **actifs existants**,
@@ -32,4 +30,21 @@ L’objectif est d’examiner les actifs de Botium Toys ainsi que les **contrôl
 - Identifier les **contrôles** et **bonnes pratiques de sécurité** à mettre en œuvre,
 - **Améliorer la posture de sécurité** globale de Botium Toys.
 
----
+## ✅ Liste de vérification de l’évaluation des contrôles
+
+| Oui / Non | Contrôle                                                                 |
+|-----|-----|--------------------------------------------------------------------------|
+|   | Moindre privilège                                                        |
+|   | Plans de reprise après sinistre                                          |
+|   | Politiques de mot de passe                                               |
+|   | Séparation des tâches                                                    |
+|   | Pare-feu                                                                 |
+|   | Système de détection d’intrusion (IDS)                                   |
+|   | Sauvegardes                                                              |
+|   | Logiciel antivirus                                                       |
+|   | Surveillance, maintenance et intervention manuelles pour les anciens systèmes |
+|   | Chiffrement                                                              |
+|   | Système de gestion des mots de passe                                     |
+|   | Serrures (bureaux, magasins, entrepôts)                                  |
+|   | Vidéosurveillance en circuit fermé (CCTV)                                |
+|   | Détection/prévention incendie (alarme incendie, système de gicleurs, etc.) |
