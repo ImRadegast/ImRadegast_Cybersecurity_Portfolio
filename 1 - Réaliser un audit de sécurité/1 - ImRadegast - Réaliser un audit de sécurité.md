@@ -46,12 +46,12 @@ Les actifs gérés par le département informatique incluent :
 
 ### **Évaluation des risques**
 
-### Description du risque
+#### Description du risque
 
 Actuellement, la gestion des actifs est insuffisante. De plus, **Botium Toys ne dispose pas de tous les contrôles nécessaires** et **n'est peut-être pas en conformité** avec les réglementations et normes américaines et internationales.
 
 
-### Bonnes pratiques de contrôle
+#### Bonnes pratiques de contrôle
 
 La première des cinq fonctions du **NIST Cybersecurity Framework (CSF)** est **Identify (Identifier)**. Botium Toys devra allouer des ressources pour :
 
@@ -61,20 +61,20 @@ La première des cinq fonctions du **NIST Cybersecurity Framework (CSF)** est **
 
 
 
-### Score de risque
+#### Score de risque
 
 **Score : 8 sur 10**, ce qui représente un niveau de risque **assez élevé**.  
 Ce score est attribué à cause du **manque de contrôles** et de **non-conformité aux bonnes pratiques de sécurité**.
 
 
 
-### Commentaires supplémentaires
+#### Commentaires supplémentaires
 
 - L’impact potentiel lié à la perte d’un actif est évalué comme **moyen**, car le département informatique **ne connaît pas précisément quels actifs sont à risque**.
 - Le **risque de perte d’actifs** ou de **sanctions réglementaires** est **élevé**, car Botium Toys **ne respecte pas entièrement** les meilleures pratiques liées aux **réglementations de conformité** qui visent à **protéger les données sensibles**.
 
 
-### Informations complémentaires
+#### Informations complémentaires
 
 En cybersécurité, les **types de contrôles** peuvent être classés en trois catégories :
 
