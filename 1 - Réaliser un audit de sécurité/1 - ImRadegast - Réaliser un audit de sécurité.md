@@ -33,7 +33,7 @@ L’objectif est d’examiner les actifs de Botium Toys ainsi que les **contrôl
 ## ✅ Liste de vérification de l’évaluation des contrôles
 
 | Oui / Non | Contrôle                                                                 |
-|-----|-----|--------------------------------------------------------------------------|
+|-----------|--------------------------------------------------------------------------|
 |   | Moindre privilège                                                        |
 |   | Plans de reprise après sinistre                                          |
 |   | Politiques de mot de passe                                               |
