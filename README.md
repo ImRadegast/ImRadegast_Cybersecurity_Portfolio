@@ -44,7 +44,7 @@ De plus, cette formation m’a préparé à occuper l’un des postes de niveau 
 | **5 - Détection et réponse** | `Cycle de vie des incidents`, `Journal d'incident` |
 | **6 - Tcpdump & Wireshark** | `Analyseur de paquets` |
 | **7 - IDS & SIEM** | `Système de détection d'intrusion (IDS) : Suricata`, `Gestion des événements et informations de sécurité (SIEM) : Chronicle, Splunk` |
-| **8 - Automatisation avec Python** | `Programmation informatique`, `Programmation Python`, `Codage`, `Guide de style PEP 8` |
+| **8 - Automatisation avec Python** | `Programmation informatique`, `Programmation Python`, `Developpement`, `Guide de style PEP 8` |
 
 ## Outils
 
