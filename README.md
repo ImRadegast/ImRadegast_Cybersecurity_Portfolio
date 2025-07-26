@@ -44,7 +44,22 @@ De plus, cette formation m’a préparé à occuper l’un des postes de niveau 
 | **5 - Détection et réponse** | `Cycle de vie des incidents`, `Journal d'incident` |
 | **6 - Tcpdump & Wireshark** | `Analyseur de paquets` |
 | **7 - IDS & SIEM** | `Système de détection d'intrusion (IDS) : Suricata`, `Gestion des événements et informations de sécurité (SIEM) : Chronicle, Splunk` |
-| **8 - Automatisation avec Python** | `Programmation informatique`, `Programmation Python`, `Codage`, `Guide de style PEP 8` |
+| **8 - Automatisation avec Python** | `Programmation informatique`, `Programmation Python`, `Developpement`, `Guide de style PEP 8` |
+
+
+| **Cours / Projets** | **Compétences / Connaissances acquises** |
+|---------------------|-------------------------------------------|
+| **1 - Introduction à la cybersécurité** | `INFOSEC`, `Triade CIA (Confidentialité, Intégrité, Disponibilité)`, `Éthique en cybersécurité`, `Sensibilisation aux risques`, `Outils de base (SIEM, IDS)`, `Rôle de l’analyste en cybersécurité` |
+| **2 - Audit & gestion des risques** | `Gestion des risques`, `Cadre NIST RMF/CSF`, `Plans de réponse aux incidents`, `Analyse des menaces`, `Audits de sécurité`, `Playbooks`, `Sécurité organisationnelle` |
+| **3 - Réseaux et sécurité réseau** | `Modèle OSI`, `Modèle TCP/IP`, `Architecture réseau`, `Protocoles réseau`, `Pare-feu (firewalls)`, `VPN`, `Réseaux cloud`, `IDS/IPS`, `Renforcement de la sécurité (hardening)` |
+| **4 - Linux & SQL** | `Interface en ligne de commande`, `Systèmes Linux`, `Bash`, `Permissions et utilisateurs`, `SQL`, `Bases de données`, `Requêtes`, `Filtrage`, `Jointures`, `Collecte de données` |
+| **5 - Actifs, menaces et vulnérabilités** | `Classification des actifs`, `Évaluation des vulnérabilités`, `Modélisation des menaces`, `Cryptographie`, `Authentification`, `Contrôle d’accès`, `Gestion des identités` |
+| **6 - Détection et réponse** | `Cycle de vie des incidents`, `Journalisation`, `Analyse de logs`, `Documentation`, `Évaluation des priorités`, `Escalade`, `Playbooks de réponse`, `Communication d’incident` |
+| **7 - Tcpdump & Wireshark** | `Analyseur de paquets`, `tcpdump`, `Wireshark`, `Analyse de trafic`, `Surveillance réseau` |
+| **8 - IDS & SIEM** | `Systèmes de détection d’intrusion (IDS) : Suricata`, `SIEM : Splunk, Google Chronicle`, `Corrélation de logs`, `Alertes de sécurité`, `Détection d’anomalies`, `Surveillance des événements` |
+| **9 - Automatisation avec Python** | `Programmation Python`, `Scripts d’automatisation`, `Structures conditionnelles`, `Boucles`, `Fonctions`, `Regex`, `Gestion de fichiers`, `PEP 8`, `Débogage` |
+| **10 - Préparation à l’emploi** | `Création de portfolio`, `CV et lettre de motivation`, `Préparation aux entretiens`, `Outils Google (Career Certificates, Gemini)`, `Plan de carrière`, `Compétences professionnelles` |
+
 
 ## Outils
 
