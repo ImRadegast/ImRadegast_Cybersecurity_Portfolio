@@ -1,4 +1,6 @@
 # Évaluation des Contrôles et de la Conformité – Étude de Cas
+>  Cet exercice est inspirés par Google. Veuillez visiter ce <a href="https://www.coursera.org/professional-certificates/google-cybersecurity">site</a> pour plus d'information.
+
 > Cette étude de cas repose sur une entreprise fictive :
 
 Botium Toys est une petite entreprise américaine spécialisée dans le développement et la vente de jouets. Elle dispose d’un unique site physique qui fait office de siège social, de boutique et d’entrepôt pour ses produits. Toutefois, la présence en ligne de Botium Toys s’est considérablement développée, attirant des clients aux États-Unis ainsi qu’à l’international. Cette expansion exerce une pression croissante sur le département informatique, qui doit désormais répondre aux besoins d’un marché mondial.
