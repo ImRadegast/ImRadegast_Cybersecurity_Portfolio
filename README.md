@@ -35,18 +35,6 @@ De plus, cette formation m’a préparé à occuper l’un des postes de niveau 
 
 ## Compétences
 
-| **Projets** | **Compétences / Connaissances acquises** |
-|--------------|-------------------------------------------|
-| **1 - Réaliser un audit de sécurité** | `INFOSEC`, `Cadre de gestion des risques NIST`, `Audits de sécurité`, `Cadre de cybersécurité NIST`, `Plans de réponse aux incidents`, `CISSP`, `Triade CIA` |
-| **2 - Sécurité réseau** | `Modèle TCP/IP`, `Architecture réseau`, `Communication réseau`, `Renforcement de la sécurité`, `Sécurité réseau`, `Réseaux cloud` |
-| **3 - Linux & SQL** | `Interface en ligne de commande`, `SQL`, `Linux`, `Bash` |
-| **4 - Actifs, menaces et vulnérabilités** | `Authentification`, `Évaluation des vulnérabilités`, `Cryptographie`, `Classification des actifs`, `Analyse de modélisation des menaces` |
-| **5 - Détection et réponse** | `Cycle de vie des incidents`, `Journal d'incident` |
-| **6 - Tcpdump & Wireshark** | `Analyseur de paquets` |
-| **7 - IDS & SIEM** | `Système de détection d'intrusion (IDS) : Suricata`, `Gestion des événements et informations de sécurité (SIEM) : Chronicle, Splunk` |
-| **8 - Automatisation avec Python** | `Programmation informatique`, `Programmation Python`, `Developpement`, `Guide de style PEP 8` |
-
-
 | **Cours / Projets** | **Compétences / Connaissances acquises** |
 |---------------------|-------------------------------------------|
 | **1 - Introduction à la cybersécurité** | `INFOSEC`, `Triade CIA (Confidentialité, Intégrité, Disponibilité)`, `Éthique en cybersécurité`, `Sensibilisation aux risques`, `Outils de base (SIEM, IDS)`, `Rôle de l’analyste en cybersécurité` |
@@ -67,6 +55,3 @@ Plusieurs outils que j'ai utilisé
  - SQL
  - Python
  - C#
-
-
-
