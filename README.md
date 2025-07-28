@@ -12,7 +12,7 @@
  
 ## Portfolio
 
->Veuillez visiter ce [site](https://www.coursera.org/professional-certificates/google-cybersecurity") pour plus d'information. Ainsi que ce
+>Veuillez visiter ce [site](https://www.coursera.org/professional-certificates/google-cybersecurity") pour plus d'information. 
 
 J'ai développé un portfolio en cybersécurité mettant en valeur diverses tâches et projets réalisés durant mon parcours pour obtenir le Google Cybersecurity Professional Certificate. Ce programme m’a permis d’acquérir des compétences dans les domaines suivants :
 
