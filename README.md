@@ -9,7 +9,7 @@
 - [En cours] Certification Google Cybersecurité Professionnel :<a href="[https://www.coursera.org/professional-certificates/google-cybersecurity](https://www.coursera.org/learner/imradegast)">site</a> 
 - Master Chef de Projet en Informatique 
 - Licence Développeur FullStack
-[https://www.coursera.org/learner/imradegast](https://www.coursera.org/learner/imradegast)
+  [My profile](https://www.coursera.org/learner/imradegast)
 ## Portfolio
 
 >Veuillez visiter ce <a href="https://www.coursera.org/professional-certificates/google-cybersecurity">site</a> pour plus d'information. Ainsi que ce
