@@ -6,13 +6,13 @@
 
 
  _**Diplôme :**_
-- [En cours] Certification Google Cybersecurité Professionnel 
+- [En cours] Certification Google Cybersecurité Professionnel :<a href="[https://www.coursera.org/professional-certificates/google-cybersecurity](https://www.coursera.org/learner/imradegast)">site</a> 
 - Master Chef de Projet en Informatique 
 - Licence Développeur FullStack
-
+[https://www.coursera.org/learner/imradegast](https://www.coursera.org/learner/imradegast)
 ## Portfolio
 
->Veuillez visiter ce <a href="https://www.coursera.org/professional-certificates/google-cybersecurity">site</a> pour plus d'information.
+>Veuillez visiter ce <a href="https://www.coursera.org/professional-certificates/google-cybersecurity">site</a> pour plus d'information. Ainsi que ce
 
 J'ai développé un portfolio en cybersécurité mettant en valeur diverses tâches et projets réalisés durant mon parcours pour obtenir le Google Cybersecurity Professional Certificate. Ce programme m’a permis d’acquérir des compétences dans les domaines suivants :
 
