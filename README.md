@@ -1,6 +1,6 @@
 # ImRadegast_Cybersecurity_Portfolio
 
->Les modules 1 à 9 sont inspirés par Google. Veuillez visiter ce [site](https://www.coursera.org/professional-certificates/google-cybersecurity") pour plus d'information.
+>Les modules 1 à 9 sont inspirés par Google. Veuillez visiter ce [site](https://www.coursera.org/professional-certificates/google-cybersecurity) pour plus d'information.
 
 >Retrouvez toutes mes notes de cybersécurité sur [mon espace Notion](https://scientific-deal-c02.notion.site/Cybersecurit-1e8cd090b1e8807ea325c9e844c159ec?pvs=143).
 
@@ -12,7 +12,7 @@
  
 ## Portfolio
 
->Veuillez visiter ce [site](https://www.coursera.org/professional-certificates/google-cybersecurity") pour plus d'information. 
+>Veuillez visiter ce [site](https://www.coursera.org/professional-certificates/google-cybersecurity) pour plus d'information. 
 
 J'ai développé un portfolio en cybersécurité mettant en valeur diverses tâches et projets réalisés durant mon parcours pour obtenir le Google Cybersecurity Professional Certificate. Ce programme m’a permis d’acquérir des compétences dans les domaines suivants :
 
