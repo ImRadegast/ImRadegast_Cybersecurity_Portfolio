@@ -52,6 +52,8 @@ De plus, cette formation m’a préparé à occuper l’un des postes de niveau 
 Plusieurs outils que j'ai utilisé
  - Espace de travail Google (Drive, Docs, Excel, Slide)
  - Linux
- - SQL
  - Python
+ - Wireshark
+ - tcpdump
+ - SQL
  - C#
