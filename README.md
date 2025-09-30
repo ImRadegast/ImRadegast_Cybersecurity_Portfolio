@@ -6,7 +6,7 @@
 
 
  _**Diplôme :**_
-- [En cours] Certification Google Cybersecurité Professionnel : [My profile](https://www.coursera.org/learner/imradegast)
+- Certification Google Cybersecurité Professionnel : [My profile](https://www.coursera.org/learner/imradegast)
 - Master Chef de Projet en Informatique 
 - Licence Développeur FullStack
  
