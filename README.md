@@ -44,14 +44,13 @@ De plus, cette formation m’a préparé à occuper l’un des postes de niveau 
 | **5 - Actifs, menaces et vulnérabilités** | `Classification des actifs`, `Évaluation des vulnérabilités`, `Modélisation des menaces`, `Cryptographie`, `Authentification`, `Contrôle d’accès`, `Gestion des identités` |
 | **6 - Détection et réponse** | `Cycle de vie des incidents`, `Journalisation`, `Analyse de logs`, `Documentation`, `Évaluation des priorités`, `Escalade`, `Playbooks de réponse`, `Communication d’incident` |`Systèmes de détection d’intrusion (IDS) : Suricata`, `SIEM : Splunk, Google Chronicle`, `Corrélation de logs`, `Alertes de sécurité`, `Détection d’anomalies`, `Surveillance des événements`,`tcpdump`, `Wireshark` |
 | **7 - Automatisation avec Python** | `Programmation Python`, `Scripts d’automatisation`, `Structures conditionnelles`, `Boucles`, `Fonctions`, `Regex`, `Gestion de fichiers`, `PEP 8`, `Débogage` |
-| **8 - Préparez-vous aux emplois dans la cybersécurité** | `Création de portfolio`, `CV et lettre de motivation`, `Préparation aux entretiens`, `Outils Google (Career Certificates, Gemini)`, `Plan de carrière`, `Compétences professionnelles` |
 
 
 ## Outils
 
 Plusieurs outils que j'ai utilisé
  - Espace de travail Google (Drive, Docs, Excel, Slide)
- - Linux
+ - Linux Mint Cinnamon / Linux Arch
  - Python
  - Wireshark
  - tcpdump
