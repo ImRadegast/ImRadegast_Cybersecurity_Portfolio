@@ -2,7 +2,7 @@
 
 >Les modules 1 à 9 sont inspirés par Google. Veuillez visiter ce [site](https://www.coursera.org/professional-certificates/google-cybersecurity) pour plus d'information.
 
->Retrouvez toutes mes notes de cybersécurité sur [mon espace Notion](https://scientific-deal-c02.notion.site/Cybersecurit-1e8cd090b1e8807ea325c9e844c159ec?pvs=143).
+>Retrouvez toutes mes notes de cybersécurité sur [mon espace Notion](https://www.notion.so/Cybers-curit-et-certification-2830523d51f480f585daf73d3ccec1ea?source=copy_link).
 
 
  _**Diplôme :**_
